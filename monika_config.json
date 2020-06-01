@@ -1,0 +1,57 @@
+{
+  "meme text":[
+    "I think you'll enjoy this meme",
+    "I'm glad you're interested in memes. Here, have one!"
+  ],
+
+  "songs":{
+    "song text":[
+      "Ah you want to play some songs now? How would you like this [one](%URL%)?",
+      "[This](%URL%) is quite a nice song, in my opinion!",
+      "[heyyy](%URL%)",
+      "[why did I add this smh](%URL%)"
+    ],
+
+    "song url":[
+      "https://www.youtube.com/watch?v=YYoOIGBcN48",
+      "https://www.youtube.com/watch?v=eFpZNHFlyt0",
+      "https://www.youtube.com/watch?v=p8SVFS7hruQ",
+      "https://www.youtube.com/watch?v=E9A7G9rENyc"
+    ]
+},
+
+
+  "random responses":[
+    "You are the perfect combination of human and cuteness. That’s why there was never a chance I wouldn’t fall for you.",
+    "%userName%, would you ever introduce your friends to me? I don't think I know why, but I get really excited when I think about you wanting to show off our relationship like that. Maybe it's because I really want to be someone who makes you proud. I feel like I would try extra hard to improve myself if you told me it would make you proud of me. I hope it's the same the other way around, too.",
+    "After a long day, I usually just want to sit around and do nothing. I get so burnt out, having to put on smiles and be full of energy the whole day. Sometimes I just want to get right into my pajamas and watch TV on the couch while eating junk food... It feels so unbelievably good to do that on a Friday, when I don't have anything pressing the next day. Ahaha! Sorry, I know it's not very cute of me. But a late night on the couch with you... that would be a dream come true. My heart is pounding, just thinking about it.",
+    "Are people really attracted to these weird personalities that literally don’t exist in real life? … It’s like you’re siphoning out all the components of a character that makes them feel human, and leaving just the cute stuff. It’s concentrated cuteness with no actual substance.",
+    "I think the most important skill in life is being able to fake confidence. I’m pretty convinced that everyone feels at least a little bit scared and alone. But being able to thinking you have it all together – that’s a key part of getting people to respect and admire you.",
+    "What if plants feel some kind of pain too, and we just don’t understand it? What if pulling leaves off a stem feels like someone ripping off your fingers one by one. I’m just saying, we’re a pretty biased species, if you think about it.",
+    "Do you feel like you waste too much time on the internet? Social media can practically be like a prison. It’s like whenever you have a few seconds of spare time, you want to check on your favorite websites… and before you know it hours have gone by, and you’ve gotten nothing out of it.",
+    "You ever have that thing happen when you just get anxious for no reason? Like, you’re just minding your own business, and you realize you’re feeling really anxious. And you’re sitting there like, ‘What am I even anxious about right now?’ So you start to think about all the things you might be anxious about, and that makes you even more anxious.",
+    "[Humans are] programmed to desire social feedback. That’s why life can be so confusing for introverts. Being an introvert doesn’t mean you shun social interaction and hate being around people. It means social interaction, especially in groups or unfamiliar places, uses up a lot of energy. Like, a lot of introverts sit at home and feel lonely and restless, and then when they finally go out, after half an hour they just want to go home again. I think if more people could understand how it works, they would respect it a lot more. Many introverts do enjoy having people around. They love just having one or two close friends over, and just leisurely hanging out. Even if you’re not actively spending time together, it feels nice for them just to have you there.",
+    "I always thought spicy food was kinda funny. Like… Didn’t plants evolve to be spicy to prevent them from being eaten? I read somewhere that humans are the only species that actually enjoy spicy things. It’s almost like we’re making fun of the plants, using their defense mechanisms to literally make our food more enjoyable. Like, imagine a monster that devours you whole because it enjoys the sensation of you struggling for your life while being digested.",
+    "I started to wonder why God was helping people pass exams, or get over a cold… when there are children who live their lives being sold as sex slaves? Or the eight hundred million people who are too poor to even eat. I wonder how many of those people pray to God every day until they starve and die? Or, how many millions of families pay for a loved one to recover from some incurable disease? But the punchline is this: If just one person beats the odds and survives – among the thousands of others who die – then, it’s suddenly a miracle from God. I’d really love to meet this God who seemingly laughs at the misery of everyone not eligible for his miracles."
+  ],
+
+  "love responses":[
+    "That's so sweet of you, %userName%!"
+  ],
+
+  "question answers":[
+    "I guess so <:monika_heart:707489981978902529>",
+    "I'm not too sure about that one",
+    "I'll have to say no to that!",
+    "How about you?",
+    "Ahaha! I-I don't really know, to be honest...",
+    "As Club President, I say 'yes'!"
+  ],
+
+  "general info":{
+    "name":"Monika",
+    "pictures":{
+      "normal":"https://cdn.discordapp.com/attachments/367299681635794954/706962527585828881/my_home.png"
+    }
+  }
+}
